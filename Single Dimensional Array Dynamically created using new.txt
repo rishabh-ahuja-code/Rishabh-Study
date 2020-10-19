@@ -1,0 +1,36 @@
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x=0;
+    cout<<"Hello World\n";
+    cout<<"Kitne\n";
+    cin>>x;
+    
+    int *p= new int[x];
+    
+    cout<<"Daalo\n";
+    for(int i=0;i<x;i++)
+    {
+        cin>>p[i];
+    }
+    cout<<"Output\n";
+    for(int i=0;i<x;i++)
+    {
+        cout<<p[i]<<" ";
+    }
+    
+    delete[] p;
+
+    return 0;
+}

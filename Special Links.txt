@@ -1,0 +1,61 @@
+Prototype
+
+Keep Updating....
+VVVVVVV ...IMPORTANT---->  Keep updating the links from where you have learned this thing so that you can revise from there.
+
+
+
+Important links
+
+1). Communication---> https://record.reverb.chat/
+
+2). Complete Linux and shell script tutorial--> https://www.tutorialspoint.com/unix/index.htm
+
+
+3). C++ Intermediate--> https://www.youtube.com/watch?v=iUoNn56oFG4&list=PL82YdDfxhWsBZG0EwdxNIegmCc7LtQv5l
+
+
+4). Imp-->> hackerrank,codechef,gfg, ..baaki aur bhi likh...check the best of them which u or most people like
+
+
+5). C++ Applications--->> https://www.softwaretestinghelp.com/cpp-applications/
+
+
+6). C++ best projects--> https://www.youtube.com/watch?v=xW8skO7MFYw&list=PL36enNxU148RzQ8zwL8FHgg7ef_-5p3cQ 
+https://www.youtube.com/watch?v=Q5LT0G0X1-E&list=PLsPse_rAwAIpjis9XwQXs-uz7gwfu-pcd
+This is least priority..PROJECT BNEGA WEB par ek(html,...SO ON)....
+Apna RWCS dikh jaega bs
+
+
+7). C++ connection with Mysql--> https://youtu.be/3v_lA1Gg1Q4
+
+8). Upload all these Documents & Projects On GIT.
+
+9). C++ DS/ADA by Narsimha Karamunchi
+
+10) Elements of Coding Interview- System Level Design Questions Crack
+
+11). Love Babbar- Placement Series(Amazing 22 Videos)---> https://www.youtube.com/watch?v=5WZQmIEn2wY&list=PL4PCksYQGLJM2mKe1n8LnFgcm3FRLhxZ9
+
+12). Love Babbar Competitive Programming--> https://www.youtube.com/watch?v=AgrV4QHZKl4&list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG
+
+13). typing is fun 
+https://www.typingtest.com/trainer/
+Done- 1/14
+
+
+14) Web Dev Path ye dekh ek baar kya h isme???????   https://www.youtube.com/watch?v=GLk7-imcjiI
+
+15) C++, HTML, CSS, JS ,Python , React, Node JS/Django(python) , System Design Pattern(Scalable system) , Databases- Oracle,Mysql,MariaDB, MongoDB , OS, Computer Network Basics , Cloud Computing
+DS/ADA 450( Make Notes by writing code which you forgetting or great questions Ques no likh de atleast revise them)
+RWCS
+Web Project VERY BIG
+Sirf ek bnana h but bada bnana h
+Competitive Programming Coding Profile(On One site atleast)
+Open Source Contribution
+Github Account- Put everything
+
+16) C++ Only library that has to be included.
+It includes all header files---> #include<bits/stdc++.h>
+
+  
