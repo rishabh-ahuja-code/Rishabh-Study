@@ -1,0 +1,16 @@
+Node *x,*x2;
+    Node *x3;
+    x=head;
+    x2=head;
+    int c=0;
+    while(x2!=NULL && x2->next!=NULL){
+        x=x->next;
+        x3=x2;
+        x2=x2->next->next;
+        if(x==x2){
+        c=1;
+        break;
+        }
+    }
+    if(c==1)
+    x3->next->next= NULL;

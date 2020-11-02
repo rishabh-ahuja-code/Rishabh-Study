@@ -1,0 +1,45 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	//code
+    int t;
+    cin>>t;
+    while(t--)
+    {
+       int n;
+       cin>>n;
+       int a[n];
+       for(int x=0;x<n;x++)
+       cin>>a[x];
+       
+       int cur_sum=a[0];
+       int max_sum=a[0];
+       
+       int j=1;
+       for(;j<n;j++)
+       {
+          if(a[j]>0)
+          { 
+                if(cur_sum<0)
+                cur_sum=0;
+                cur_sum+=a[j];
+                
+                if(max_sum < cur_sum)
+                max_sum=cur_sum;
+          }
+          else
+          {
+              
+              if(cur_sum<0)
+                cur_sum=0;
+                cur_sum+=a[j];
+          }
+         
+       }
+       
+    cout<<max_sum<<endl;   
+    }
+	return 0;
+}
+
